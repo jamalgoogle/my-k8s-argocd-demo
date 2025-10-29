@@ -46,4 +46,4 @@ jobs:
             --username $ARGOCD_USERNAME \
             --password $ARGOCD_PASSWORD \
             --insecure
-          argocd app sync demo-app
+          argocd app sync demo-app  
